@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithm
 
-This repository contains implementations of various data structures and algorithms in Java. This are solutions of some leetcode questions to enhance problem-solving skills.
+This repository contains implementations of various data structures and algorithms in Java. This are solutions of some questions to enhance problem-solving skills.
 
 <h4>Data Structures</h4>
 The following data structures are implemented in this project:
